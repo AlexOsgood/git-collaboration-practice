@@ -1,7 +1,7 @@
 First statement; My new friend Riley.
                   |                          |
                   |                          |
-                  |                          |        X
+        0         |                          |        X
                   |                          |
                   |                          |
                   |                          |
